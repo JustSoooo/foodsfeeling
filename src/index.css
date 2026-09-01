@@ -10,6 +10,8 @@ body,
 }
 
 body {
-  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  font-family:
+    -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Helvetica Neue', system-ui, 'Segoe UI',
+    Roboto, 'Microsoft YaHei', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
