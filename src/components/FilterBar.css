@@ -1,0 +1,48 @@
+.filter-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px 12px;
+  border-bottom: 1px solid #eee;
+  flex-shrink: 0;
+}
+
+.filter-bar__chips {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+}
+
+.chip {
+  flex-shrink: 0;
+  padding: 5px 12px;
+  border-radius: 14px;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #888;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.chip--active {
+  background: #333;
+  border-color: #333;
+  color: #fff;
+}
+
+.filter-bar__selects {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+}
+
+.filter-bar__selects select {
+  flex-shrink: 0;
+  font-size: 12px;
+  padding: 5px 6px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #333;
+  max-width: 120px;
+}

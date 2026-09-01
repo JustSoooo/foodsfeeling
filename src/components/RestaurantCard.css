@@ -1,0 +1,130 @@
+.detail-card {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff;
+  border-radius: 16px 16px 0 0;
+  box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.12);
+  padding: 20px 20px max(20px, env(safe-area-inset-bottom));
+  max-height: 70vh;
+  overflow-y: auto;
+  z-index: 20;
+}
+
+.detail-card__close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  border: none;
+  background: none;
+  font-size: 22px;
+  line-height: 1;
+  color: #888;
+  cursor: pointer;
+}
+
+.detail-card h2 {
+  margin: 0 0 8px;
+  font-size: 20px;
+}
+
+.detail-card__tags {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.tag {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  background: #eee;
+  color: #555;
+}
+
+.tag--warn {
+  background: #fde2e2;
+  color: #b3261e;
+}
+
+.detail-card p {
+  margin: 4px 0;
+  font-size: 14px;
+  color: #333;
+}
+
+.detail-card__address {
+  color: #666 !important;
+}
+
+.detail-card__notes {
+  color: #777 !important;
+  font-style: italic;
+}
+
+.detail-card__favorite {
+  display: flex;
+  gap: 8px;
+  margin: 4px 0 8px;
+}
+
+.detail-card__favorite button {
+  flex: 1;
+  padding: 8px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  font-size: 13px;
+  color: #555;
+}
+
+.detail-card__favorite button.active {
+  background: #fff4d9;
+  border-color: #f0c040;
+  color: #8a6d00;
+  font-weight: 600;
+}
+
+.detail-card__nav {
+  display: flex;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.detail-card__nav button {
+  flex: 1;
+  padding: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+  font-size: 13px;
+  color: #333;
+}
+
+.detail-card__nav button:active {
+  background: #eee;
+}
+
+.detail-card__dianping {
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  padding: 10px 0;
+  border: none;
+  border-radius: 8px;
+  background: #ff6633;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.detail-card__dianping:active {
+  background: #e65a2c;
+}
+
+.detail-card__verified {
+  margin-top: 12px !important;
+  font-size: 12px !important;
+  color: #aaa !important;
+}

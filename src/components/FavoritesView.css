@@ -1,0 +1,91 @@
+.favorites-view {
+  height: 100%;
+  overflow-y: auto;
+  background: #fff;
+}
+
+.favorites-view--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 32px;
+  text-align: center;
+  color: #999;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.favorites-view__selection-bar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  background: #fff4d9;
+  font-size: 13px;
+  color: #8a6d00;
+}
+
+.favorites-view__selection-bar button {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  background: #ddd;
+  color: #888;
+  font-size: 12px;
+}
+
+.favorites-view__group {
+  padding: 4px 0;
+  border-bottom: 8px solid #f5f5f3;
+}
+
+.favorites-view__group h3 {
+  margin: 0;
+  padding: 10px 16px 4px;
+  font-size: 13px;
+  color: #999;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}
+
+.favorites-view__row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+}
+
+.favorites-view__row-main {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.favorites-view__row-name {
+  font-size: 15px;
+  color: #222;
+}
+
+.favorites-view__row-status {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  background: #eee;
+  color: #888;
+}
+
+.favorites-view__row-status--want {
+  background: #fff4d9;
+  color: #8a6d00;
+}
+
+.favorites-view__row-status--been {
+  background: #e2f3e5;
+  color: #2e7d32;
+}
