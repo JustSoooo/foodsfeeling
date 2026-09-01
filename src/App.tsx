@@ -5,6 +5,7 @@ import FilterBar from './components/FilterBar';
 import CityListView from './components/CityListView';
 import SearchBar from './components/SearchBar';
 import FavoritesView from './components/FavoritesView';
+import ItineraryOverlay from './components/ItineraryOverlay';
 import restaurantsData from './data/restaurants.json';
 import type { Restaurant } from './types/restaurant';
 import type { Filters } from './types/filters';
@@ -23,6 +24,9 @@ function App() {
   const [query, setQuery] = useState('');
   const [view, setView] = useState<ViewMode>('map');
   const [favorites, setFavorites] = useState<FavoritesMap>(() => getFavorites());
+  const [itinerary, setItinerary] = useState<{ city: string; restaurants: Restaurant[] } | null>(
+    null,
+  );
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -93,7 +97,12 @@ function App() {
           <CityListView restaurants={filtered} onSelectCity={handleSelectCity} />
         )}
         {view === 'favorites' && (
-          <FavoritesView restaurants={restaurants} favorites={favorites} onSelect={setSelected} />
+          <FavoritesView
+            restaurants={restaurants}
+            favorites={favorites}
+            onSelect={setSelected}
+            onGenerateItinerary={(city, sel) => setItinerary({ city, restaurants: sel })}
+          />
         )}
       </main>
 
@@ -103,6 +112,14 @@ function App() {
           favoriteStatus={favorites[selected.id]}
           onFavoriteChange={handleFavoriteChange}
           onClose={() => setSelected(null)}
+        />
+      )}
+
+      {itinerary && (
+        <ItineraryOverlay
+          city={itinerary.city}
+          restaurants={itinerary.restaurants}
+          onClose={() => setItinerary(null)}
         />
       )}
     </div>

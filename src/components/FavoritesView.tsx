@@ -3,13 +3,21 @@ import type { Restaurant } from '../types/restaurant';
 import type { FavoritesMap } from '../lib/favorites';
 import './FavoritesView.css';
 
+const MAX_SELECTABLE = 6; // 暴走强度上限，见启动文档 9.2.4
+
 interface FavoritesViewProps {
   restaurants: Restaurant[];
   favorites: FavoritesMap;
   onSelect: (r: Restaurant) => void;
+  onGenerateItinerary: (city: string, selected: Restaurant[]) => void;
 }
 
-export default function FavoritesView({ restaurants, favorites, onSelect }: FavoritesViewProps) {
+export default function FavoritesView({
+  restaurants,
+  favorites,
+  onSelect,
+  onGenerateItinerary,
+}: FavoritesViewProps) {
   const [checkedIds, setCheckedIds] = useState<Set<string>>(new Set());
 
   const grouped = useMemo(() => {
@@ -23,13 +31,38 @@ export default function FavoritesView({ restaurants, favorites, onSelect }: Favo
     return Array.from(byCity.entries()).sort((a, b) => b[1].length - a[1].length);
   }, [restaurants, favorites]);
 
-  function toggleCheck(id: string) {
+  const byId = useMemo(() => new Map(restaurants.map((r) => [r.id, r])), [restaurants]);
+  const lockedCity = useMemo(() => {
+    const first = Array.from(checkedIds)[0];
+    return first ? byId.get(first)?.city : undefined;
+  }, [checkedIds, byId]);
+
+  function isSelectable(r: Restaurant) {
+    if (r.status === '存疑' || r.status === '关闭') return false;
+    if (lockedCity && r.city !== lockedCity) return false;
+    return true;
+  }
+
+  function toggleCheck(r: Restaurant) {
+    if (!isSelectable(r) && !checkedIds.has(r.id)) return;
     setCheckedIds((prev) => {
       const next = new Set(prev);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
+      if (next.has(r.id)) {
+        next.delete(r.id);
+      } else {
+        if (next.size >= MAX_SELECTABLE) return prev;
+        next.add(r.id);
+      }
       return next;
     });
+  }
+
+  function handleGenerate() {
+    if (!lockedCity) return;
+    const selected = Array.from(checkedIds)
+      .map((id) => byId.get(id))
+      .filter((r): r is Restaurant => !!r);
+    onGenerateItinerary(lockedCity, selected);
   }
 
   if (grouped.length === 0) {
@@ -44,9 +77,11 @@ export default function FavoritesView({ restaurants, favorites, onSelect }: Favo
     <div className="favorites-view">
       {checkedIds.size > 0 && (
         <div className="favorites-view__selection-bar">
-          已选 {checkedIds.size} 家
-          <button disabled title="单日打卡攻略生成器为 V1.1 功能，敬请期待">
-            生成打卡攻略（V1.1）
+          已选 {checkedIds.size} 家（{lockedCity}）
+          {checkedIds.size >= MAX_SELECTABLE && '（已达单日上限）'}
+          <button onClick={handleGenerate}>生成打卡攻略</button>
+          <button className="ghost" onClick={() => setCheckedIds(new Set())}>
+            清空
           </button>
         </div>
       )}
@@ -55,21 +90,37 @@ export default function FavoritesView({ restaurants, favorites, onSelect }: Favo
           <h3>
             {city} <span>{list.length} 家</span>
           </h3>
-          {list.map((r) => (
-            <div key={r.id} className="favorites-view__row">
-              <input
-                type="checkbox"
-                checked={checkedIds.has(r.id)}
-                onChange={() => toggleCheck(r.id)}
-              />
-              <div className="favorites-view__row-main" onClick={() => onSelect(r)}>
-                <span className="favorites-view__row-name">{r.name}</span>
-                <span className={`favorites-view__row-status favorites-view__row-status--${favorites[r.id]}`}>
-                  {favorites[r.id] === 'want' ? '想去' : '去过'}
-                </span>
+          {list.map((r) => {
+            const selectable = isSelectable(r);
+            return (
+              <div
+                key={r.id}
+                className={`favorites-view__row${!selectable ? ' favorites-view__row--disabled' : ''}`}
+              >
+                <input
+                  type="checkbox"
+                  checked={checkedIds.has(r.id)}
+                  disabled={!selectable && !checkedIds.has(r.id)}
+                  onChange={() => toggleCheck(r)}
+                  title={
+                    r.status === '存疑' || r.status === '关闭'
+                      ? `状态为${r.status}，暂不可用于攻略`
+                      : lockedCity && r.city !== lockedCity
+                        ? `多选仅限同城市（当前已锁定${lockedCity}）`
+                        : undefined
+                  }
+                />
+                <div className="favorites-view__row-main" onClick={() => onSelect(r)}>
+                  <span className="favorites-view__row-name">{r.name}</span>
+                  <span
+                    className={`favorites-view__row-status favorites-view__row-status--${favorites[r.id]}`}
+                  >
+                    {favorites[r.id] === 'want' ? '想去' : '去过'}
+                  </span>
+                </div>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </section>
       ))}
     </div>
