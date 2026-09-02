@@ -101,7 +101,11 @@ function App() {
         {loading && <div className="app-loading">加载数据中…</div>}
         {!loading && view === 'map' && <MapView restaurants={filtered} onSelect={setSelected} />}
         {view === 'cities' && (
-          <CityListView restaurants={filtered} onSelectCity={handleSelectCity} />
+          <CityListView
+            restaurants={filtered}
+            onSelectRestaurant={setSelected}
+            onViewOnMap={handleSelectCity}
+          />
         )}
         {view === 'favorites' && (
           <FavoritesView
