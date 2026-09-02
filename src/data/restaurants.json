@@ -61,11 +61,11 @@
       "饼卷肉",
       "石磨粥"
     ],
-    "price_per_person": null,
+    "price_per_person": 199,
     "sentiment": "推荐",
     "status": "存疑",
     "verified_at": "2026-09-02",
-    "notes": "博主加了两个顶配饼，评价名不虚传；具体店名需回看原视频核实；坐标为威县城区近似值"
+    "notes": "博主加了两个顶配饼，评价名不虚传；具体店名需回看原视频核实；坐标为威县城区近似值 补充：B站\"特别乌啦啦\"账号2025-03-05发布的邢台饼卷肉视频显示人均199元，与本条推测为同一店，仅供参考。"
   },
   {
     "id": "yifan-s1-002",
@@ -1073,5 +1073,3185 @@
     "status": "存疑",
     "verified_at": "2026-09-02",
     "notes": "数据来源：凤凰网《〈一饭封神〉终于收官，节目里的这些餐厅都什么来头?》/《〈一饭封神2〉阵容全面解析》整理，地址与坐标未逐条核实，标记为存疑，待用高德/大众点评二次确认。"
+  },
+  {
+    "id": "wulala-002",
+    "name": "商丘麻辣鱼头（店名待核）",
+    "city": "商丘",
+    "district": "",
+    "address": "商丘（具体门牌待核）",
+    "lat": 34.4141,
+    "lng": 115.6503,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-06-30",
+    "cuisine": "麻辣鱼头",
+    "signature_dishes": [
+      "麻辣鱼头"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-06-30；深夜宵夜"
+  },
+  {
+    "id": "wulala-003",
+    "name": "晋中河捞面（店名待核）",
+    "city": "晋中",
+    "district": "",
+    "address": "晋中（具体门牌待核）",
+    "lat": 37.6871,
+    "lng": 112.7526,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-06-12",
+    "cuisine": "河捞面",
+    "signature_dishes": [
+      "河捞面"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-06-12；连吃八碗"
+  },
+  {
+    "id": "wulala-004",
+    "name": "上海拉面（店名待核）",
+    "city": "上海",
+    "district": "外滩",
+    "address": "上海外滩（具体门牌待核）",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-05-11",
+    "cuisine": "拉面",
+    "signature_dishes": [
+      "拉面"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-05-11；外滩附近"
+  },
+  {
+    "id": "wulala-005",
+    "name": "昆明卤面（店名待核）",
+    "city": "昆明",
+    "district": "",
+    "address": "昆明（具体门牌待核）",
+    "lat": 25.0389,
+    "lng": 102.7183,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-04-28",
+    "cuisine": "卤面",
+    "signature_dishes": [
+      "卤面"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-04-28；加冒加鸡翅"
+  },
+  {
+    "id": "wulala-006",
+    "name": "温州小海鲜（店名待核）",
+    "city": "温州",
+    "district": "",
+    "address": "温州（具体门牌待核）",
+    "lat": 27.9938,
+    "lng": 120.6993,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-04-01",
+    "cuisine": "小海鲜",
+    "signature_dishes": [
+      "小海鲜"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-04-01；含江蟹生"
+  },
+  {
+    "id": "wulala-007",
+    "name": "商洛商洛包子（店名待核）",
+    "city": "商洛",
+    "district": "",
+    "address": "商洛（具体门牌待核）",
+    "lat": 33.8683,
+    "lng": 109.9204,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-03-25",
+    "cuisine": "商洛包子",
+    "signature_dishes": [
+      "商洛包子"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-03-25"
+  },
+  {
+    "id": "wulala-008",
+    "name": "包头烩菜（店名待核）",
+    "city": "包头",
+    "district": "",
+    "address": "包头（具体门牌待核）",
+    "lat": 40.657,
+    "lng": 109.8402,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-01-11",
+    "cuisine": "烩菜",
+    "signature_dishes": [
+      "烩菜"
+    ],
+    "price_per_person": 141,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-01-11"
+  },
+  {
+    "id": "wulala-009",
+    "name": "北京烤鸭（店名待核）",
+    "city": "北京",
+    "district": "",
+    "address": "北京（具体门牌待核）",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2026-01-03",
+    "cuisine": "烤鸭",
+    "signature_dishes": [
+      "烤鸭"
+    ],
+    "price_per_person": 1430,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2026-01-03；含鹅肝"
+  },
+  {
+    "id": "wulala-010",
+    "name": "贵阳竹签烤肉（店名待核）",
+    "city": "贵阳",
+    "district": "",
+    "address": "贵阳（具体门牌待核）",
+    "lat": 26.647,
+    "lng": 106.6302,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-12-05",
+    "cuisine": "竹签烤肉",
+    "signature_dishes": [
+      "竹签烤肉"
+    ],
+    "price_per_person": 259,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-12-05；搭配折耳根蘸水"
+  },
+  {
+    "id": "wulala-011",
+    "name": "洛宁扯面&糊卜（店名待核）",
+    "city": "洛宁",
+    "district": "",
+    "address": "洛宁（具体门牌待核）",
+    "lat": 34.39,
+    "lng": 111.53,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-10-29",
+    "cuisine": "扯面&糊卜",
+    "signature_dishes": [
+      "扯面&糊卜"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-10-29"
+  },
+  {
+    "id": "wulala-012",
+    "name": "洛宁洛宁蒸肉（店名待核）",
+    "city": "洛宁",
+    "district": "",
+    "address": "洛宁（具体门牌待核）",
+    "lat": 34.39,
+    "lng": 111.53,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-10-13",
+    "cuisine": "洛宁蒸肉",
+    "signature_dishes": [
+      "洛宁蒸肉"
+    ],
+    "price_per_person": 184,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-10-13"
+  },
+  {
+    "id": "wulala-013",
+    "name": "西宁烤肉配面（店名待核）",
+    "city": "西宁",
+    "district": "",
+    "address": "西宁（具体门牌待核）",
+    "lat": 36.6171,
+    "lng": 101.7782,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-07-17",
+    "cuisine": "烤肉配面",
+    "signature_dishes": [
+      "烤肉配面"
+    ],
+    "price_per_person": 408,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-07-17"
+  },
+  {
+    "id": "wulala-014",
+    "name": "长沙大排档（店名待核）",
+    "city": "长沙",
+    "district": "",
+    "address": "长沙（具体门牌待核）",
+    "lat": 28.2282,
+    "lng": 112.9388,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-07-09",
+    "cuisine": "大排档",
+    "signature_dishes": [
+      "大排档"
+    ],
+    "price_per_person": 486,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-07-09；排队一小时"
+  },
+  {
+    "id": "wulala-015",
+    "name": "澳门鹅腿（店名待核）",
+    "city": "澳门",
+    "district": "",
+    "address": "澳门（具体门牌待核）",
+    "lat": 22.1987,
+    "lng": 113.5439,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-07-07",
+    "cuisine": "鹅腿",
+    "signature_dishes": [
+      "鹅腿"
+    ],
+    "price_per_person": 1613,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-07-07；价格为澳门币，十只鹅腿"
+  },
+  {
+    "id": "wulala-016",
+    "name": "深圳火锅（店名待核）",
+    "city": "深圳",
+    "district": "",
+    "address": "深圳（具体门牌待核）",
+    "lat": 22.5431,
+    "lng": 114.0579,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-07-04",
+    "cuisine": "火锅",
+    "signature_dishes": [
+      "火锅"
+    ],
+    "price_per_person": 1162,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-07-04"
+  },
+  {
+    "id": "wulala-017",
+    "name": "贵阳牛肉粉（店名待核）",
+    "city": "贵阳",
+    "district": "",
+    "address": "贵阳（具体门牌待核）",
+    "lat": 26.647,
+    "lng": 106.6302,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-06-27",
+    "cuisine": "牛肉粉",
+    "signature_dishes": [
+      "牛肉粉"
+    ],
+    "price_per_person": 53,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-06-27；两碗"
+  },
+  {
+    "id": "wulala-018",
+    "name": "澳门咖喱牛腩面（店名待核）",
+    "city": "澳门",
+    "district": "",
+    "address": "澳门（具体门牌待核）",
+    "lat": 22.1987,
+    "lng": 113.5439,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-06-25",
+    "cuisine": "咖喱牛腩面",
+    "signature_dishes": [
+      "咖喱牛腩面"
+    ],
+    "price_per_person": 183,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-06-25；价格为澳门币"
+  },
+  {
+    "id": "wulala-019",
+    "name": "赤峰对夹（店名待核）",
+    "city": "赤峰",
+    "district": "",
+    "address": "赤峰（具体门牌待核）",
+    "lat": 42.2586,
+    "lng": 118.8874,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-06-04",
+    "cuisine": "对夹",
+    "signature_dishes": [
+      "对夹"
+    ],
+    "price_per_person": 30,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-06-04；手砸蒜泥配5个对夹5个鸡蛋"
+  },
+  {
+    "id": "wulala-020",
+    "name": "大连金州回勺面（店名待核）",
+    "city": "大连",
+    "district": "",
+    "address": "大连（具体门牌待核）",
+    "lat": 38.914,
+    "lng": 121.6147,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-05-26",
+    "cuisine": "金州回勺面",
+    "signature_dishes": [
+      "金州回勺面"
+    ],
+    "price_per_person": 30,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-05-26；金州区"
+  },
+  {
+    "id": "wulala-021",
+    "name": "大连海鲜烧烤（店名待核）",
+    "city": "大连",
+    "district": "",
+    "address": "大连（具体门牌待核）",
+    "lat": 38.914,
+    "lng": 121.6147,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-05-23",
+    "cuisine": "海鲜烧烤",
+    "signature_dishes": [
+      "海鲜烧烤"
+    ],
+    "price_per_person": 746,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-05-23；烤鸟背烤海肠"
+  },
+  {
+    "id": "wulala-022",
+    "name": "大连焖子（店名待核）",
+    "city": "大连",
+    "district": "",
+    "address": "大连（具体门牌待核）",
+    "lat": 38.914,
+    "lng": 121.6147,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-05-19",
+    "cuisine": "焖子",
+    "signature_dishes": [
+      "焖子"
+    ],
+    "price_per_person": 66,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-05-19"
+  },
+  {
+    "id": "wulala-023",
+    "name": "闻喜辣子菜（店名待核）",
+    "city": "闻喜",
+    "district": "",
+    "address": "闻喜（具体门牌待核）",
+    "lat": 35.36,
+    "lng": 111.22,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-04-29",
+    "cuisine": "辣子菜",
+    "signature_dishes": [
+      "辣子菜"
+    ],
+    "price_per_person": 91,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-04-29"
+  },
+  {
+    "id": "wulala-024",
+    "name": "临汾狗舌头系列（店名待核）",
+    "city": "临汾",
+    "district": "",
+    "address": "临汾（具体门牌待核）",
+    "lat": 36.0881,
+    "lng": 111.5187,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-04-22",
+    "cuisine": "狗舌头系列",
+    "signature_dishes": [
+      "狗舌头系列"
+    ],
+    "price_per_person": 84,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-04-22"
+  },
+  {
+    "id": "wulala-025",
+    "name": "安庆牛肉包子（店名待核）",
+    "city": "安庆",
+    "district": "",
+    "address": "安庆（具体门牌待核）",
+    "lat": 30.509,
+    "lng": 117.0431,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-04-20",
+    "cuisine": "牛肉包子",
+    "signature_dishes": [
+      "牛肉包子"
+    ],
+    "price_per_person": 56,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-04-20"
+  },
+  {
+    "id": "wulala-026",
+    "name": "东莞原味猪腰（店名待核）",
+    "city": "东莞",
+    "district": "",
+    "address": "东莞（具体门牌待核）",
+    "lat": 23.043,
+    "lng": 113.7633,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-22",
+    "cuisine": "原味猪腰",
+    "signature_dishes": [
+      "原味猪腰"
+    ],
+    "price_per_person": 68,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-22；连吃三只"
+  },
+  {
+    "id": "wulala-027",
+    "name": "东莞烧鹅濑（店名待核）",
+    "city": "东莞",
+    "district": "",
+    "address": "东莞（具体门牌待核）",
+    "lat": 23.043,
+    "lng": 113.7633,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-20",
+    "cuisine": "烧鹅濑",
+    "signature_dishes": [
+      "烧鹅濑"
+    ],
+    "price_per_person": 104,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-20"
+  },
+  {
+    "id": "wulala-028",
+    "name": "平顶山汝州焖面（店名待核）",
+    "city": "平顶山",
+    "district": "汝州",
+    "address": "平顶山汝州（具体门牌待核）",
+    "lat": 33.7443,
+    "lng": 113.303,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-18",
+    "cuisine": "汝州焖面",
+    "signature_dishes": [
+      "汝州焖面"
+    ],
+    "price_per_person": 32,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-18；汝州"
+  },
+  {
+    "id": "wulala-029",
+    "name": "平顶山麻辣面&米线（店名待核）",
+    "city": "平顶山",
+    "district": "",
+    "address": "平顶山（具体门牌待核）",
+    "lat": 33.7443,
+    "lng": 113.303,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-16",
+    "cuisine": "麻辣面&米线",
+    "signature_dishes": [
+      "麻辣面&米线"
+    ],
+    "price_per_person": 16,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-16"
+  },
+  {
+    "id": "wulala-030",
+    "name": "成都蹄花（店名待核）",
+    "city": "成都",
+    "district": "",
+    "address": "成都（具体门牌待核）",
+    "lat": 30.6586,
+    "lng": 104.0647,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-11",
+    "cuisine": "蹄花",
+    "signature_dishes": [
+      "蹄花"
+    ],
+    "price_per_person": 329,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-11；十五只"
+  },
+  {
+    "id": "wulala-031",
+    "name": "都江堰川菜（店名待核）",
+    "city": "都江堰",
+    "district": "",
+    "address": "都江堰（具体门牌待核）",
+    "lat": 31.0044,
+    "lng": 103.6191,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-10",
+    "cuisine": "川菜",
+    "signature_dishes": [
+      "川菜"
+    ],
+    "price_per_person": 305,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-10"
+  },
+  {
+    "id": "wulala-032",
+    "name": "邢台炒面（店名待核）",
+    "city": "邢台",
+    "district": "",
+    "address": "邢台（具体门牌待核）",
+    "lat": 36.9718,
+    "lng": 115.2668,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-08",
+    "cuisine": "炒面",
+    "signature_dishes": [
+      "炒面"
+    ],
+    "price_per_person": 121,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-08；连吃九碗"
+  },
+  {
+    "id": "wulala-033",
+    "name": "邢台巨鹿焖饼（店名待核）",
+    "city": "邢台",
+    "district": "巨鹿",
+    "address": "邢台巨鹿（具体门牌待核）",
+    "lat": 36.9718,
+    "lng": 115.2668,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-03-04",
+    "cuisine": "巨鹿焖饼",
+    "signature_dishes": [
+      "巨鹿焖饼"
+    ],
+    "price_per_person": 104,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-03-04；巨鹿县"
+  },
+  {
+    "id": "wulala-034",
+    "name": "邢台涮鱼（店名待核）",
+    "city": "邢台",
+    "district": "",
+    "address": "邢台（具体门牌待核）",
+    "lat": 36.9718,
+    "lng": 115.2668,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-02-26",
+    "cuisine": "涮鱼",
+    "signature_dishes": [
+      "涮鱼"
+    ],
+    "price_per_person": 190,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-02-26"
+  },
+  {
+    "id": "wulala-035",
+    "name": "揭阳饺子（茄子馅）（店名待核）",
+    "city": "揭阳",
+    "district": "",
+    "address": "揭阳（具体门牌待核）",
+    "lat": 23.5498,
+    "lng": 116.3729,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-02-25",
+    "cuisine": "饺子（茄子馅）",
+    "signature_dishes": [
+      "饺子（茄子馅）"
+    ],
+    "price_per_person": 216,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-02-25；深夜"
+  },
+  {
+    "id": "wulala-036",
+    "name": "潮州潮汕牛肉（烤）（店名待核）",
+    "city": "潮州",
+    "district": "",
+    "address": "潮州（具体门牌待核）",
+    "lat": 23.657,
+    "lng": 116.6301,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-02-17",
+    "cuisine": "潮汕牛肉（烤）",
+    "signature_dishes": [
+      "潮汕牛肉（烤）"
+    ],
+    "price_per_person": 1024,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-02-17"
+  },
+  {
+    "id": "wulala-037",
+    "name": "梅州深夜大排档（客家炒面）（店名待核）",
+    "city": "梅州",
+    "district": "",
+    "address": "梅州（具体门牌待核）",
+    "lat": 24.2886,
+    "lng": 116.1224,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-02-10",
+    "cuisine": "深夜大排档（客家炒面）",
+    "signature_dishes": [
+      "深夜大排档（客家炒面）"
+    ],
+    "price_per_person": 383,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-02-10"
+  },
+  {
+    "id": "wulala-038",
+    "name": "菏泽烤羊+鸡汤（店名待核）",
+    "city": "菏泽",
+    "district": "",
+    "address": "菏泽（具体门牌待核）",
+    "lat": 35.2333,
+    "lng": 115.4697,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-01-15",
+    "cuisine": "烤羊+鸡汤",
+    "signature_dishes": [
+      "烤羊+鸡汤"
+    ],
+    "price_per_person": 467,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-01-15；单县鸡汤"
+  },
+  {
+    "id": "wulala-039",
+    "name": "汉中梆梆面（店名待核）",
+    "city": "汉中",
+    "district": "",
+    "address": "汉中（具体门牌待核）",
+    "lat": 33.0678,
+    "lng": 107.025,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-01-12",
+    "cuisine": "梆梆面",
+    "signature_dishes": [
+      "梆梆面"
+    ],
+    "price_per_person": 68,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-01-12"
+  },
+  {
+    "id": "wulala-040",
+    "name": "汉中汉中热面皮（店名待核）",
+    "city": "汉中",
+    "district": "",
+    "address": "汉中（具体门牌待核）",
+    "lat": 33.0678,
+    "lng": 107.025,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2025-01-05",
+    "cuisine": "汉中热面皮",
+    "signature_dishes": [
+      "汉中热面皮"
+    ],
+    "price_per_person": 70.5,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2025-01-05；两大碗"
+  },
+  {
+    "id": "wulala-041",
+    "name": "新乡早餐一系列（鸡蛋布袋）（店名待核）",
+    "city": "新乡",
+    "district": "",
+    "address": "新乡（具体门牌待核）",
+    "lat": 35.3026,
+    "lng": 113.9268,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-12-09",
+    "cuisine": "早餐一系列（鸡蛋布袋）",
+    "signature_dishes": [
+      "早餐一系列（鸡蛋布袋）"
+    ],
+    "price_per_person": 67,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-12-09"
+  },
+  {
+    "id": "wulala-042",
+    "name": "新乡香辣面（店名待核）",
+    "city": "新乡",
+    "district": "",
+    "address": "新乡（具体门牌待核）",
+    "lat": 35.3026,
+    "lng": 113.9268,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-12-08",
+    "cuisine": "香辣面",
+    "signature_dishes": [
+      "香辣面"
+    ],
+    "price_per_person": 152,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-12-08；8碗面8个馍"
+  },
+  {
+    "id": "wulala-043",
+    "name": "锦州家常小炒（店名待核）",
+    "city": "锦州",
+    "district": "",
+    "address": "锦州（具体门牌待核）",
+    "lat": 41.0956,
+    "lng": 121.1291,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-10-30",
+    "cuisine": "家常小炒",
+    "signature_dishes": [
+      "家常小炒"
+    ],
+    "price_per_person": 166,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-10-30；花式拌饭"
+  },
+  {
+    "id": "wulala-044",
+    "name": "登封炒刀削（店名待核）",
+    "city": "登封",
+    "district": "",
+    "address": "登封（具体门牌待核）",
+    "lat": 34.456,
+    "lng": 113.035,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-20",
+    "cuisine": "炒刀削",
+    "signature_dishes": [
+      "炒刀削"
+    ],
+    "price_per_person": 118,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-20"
+  },
+  {
+    "id": "wulala-045",
+    "name": "公安县牛三鲜（牛肉面）（店名待核）",
+    "city": "公安县",
+    "district": "",
+    "address": "公安县（具体门牌待核）",
+    "lat": 30.0658,
+    "lng": 112.2337,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-19",
+    "cuisine": "牛三鲜（牛肉面）",
+    "signature_dishes": [
+      "牛三鲜（牛肉面）"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-19；湖北荆州公安县"
+  },
+  {
+    "id": "wulala-046",
+    "name": "晋城肉丸方便面（店名待核）",
+    "city": "晋城",
+    "district": "",
+    "address": "晋城（具体门牌待核）",
+    "lat": 35.4907,
+    "lng": 112.8514,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-17",
+    "cuisine": "肉丸方便面",
+    "signature_dishes": [
+      "肉丸方便面"
+    ],
+    "price_per_person": 29,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-17"
+  },
+  {
+    "id": "wulala-047",
+    "name": "渭南凉手抓+肉粘饭（店名待核）",
+    "city": "渭南",
+    "district": "",
+    "address": "渭南（具体门牌待核）",
+    "lat": 34.4994,
+    "lng": 109.509,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-16",
+    "cuisine": "凉手抓+肉粘饭",
+    "signature_dishes": [
+      "凉手抓+肉粘饭"
+    ],
+    "price_per_person": 506,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-16"
+  },
+  {
+    "id": "wulala-048",
+    "name": "弥勒卤鸡米线（店名待核）",
+    "city": "弥勒",
+    "district": "",
+    "address": "弥勒（具体门牌待核）",
+    "lat": 24.413,
+    "lng": 103.416,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-13",
+    "cuisine": "卤鸡米线",
+    "signature_dishes": [
+      "卤鸡米线"
+    ],
+    "price_per_person": 82,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-13"
+  },
+  {
+    "id": "wulala-049",
+    "name": "韩城羊肉饸饹（店名待核）",
+    "city": "韩城",
+    "district": "",
+    "address": "韩城（具体门牌待核）",
+    "lat": 35.4767,
+    "lng": 110.4436,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-13",
+    "cuisine": "羊肉饸饹",
+    "signature_dishes": [
+      "羊肉饸饹"
+    ],
+    "price_per_person": 189,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-13"
+  },
+  {
+    "id": "wulala-050",
+    "name": "渭南时辰包子（店名待核）",
+    "city": "渭南",
+    "district": "",
+    "address": "渭南（具体门牌待核）",
+    "lat": 34.4994,
+    "lng": 109.509,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-11",
+    "cuisine": "时辰包子",
+    "signature_dishes": [
+      "时辰包子"
+    ],
+    "price_per_person": 62.5,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-11；茄子馅"
+  },
+  {
+    "id": "wulala-051",
+    "name": "普宁生腌（店名待核）",
+    "city": "普宁",
+    "district": "",
+    "address": "普宁（具体门牌待核）",
+    "lat": 23.2967,
+    "lng": 116.162,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-09-10",
+    "cuisine": "生腌",
+    "signature_dishes": [
+      "生腌"
+    ],
+    "price_per_person": 436,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-09-10；深夜老巷子"
+  },
+  {
+    "id": "wulala-052",
+    "name": "普宁海鲜捞面+牛肉面（店名待核）",
+    "city": "普宁",
+    "district": "",
+    "address": "普宁（具体门牌待核）",
+    "lat": 23.2967,
+    "lng": 116.162,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-07-27",
+    "cuisine": "海鲜捞面+牛肉面",
+    "signature_dishes": [
+      "海鲜捞面+牛肉面"
+    ],
+    "price_per_person": 70,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-07-27"
+  },
+  {
+    "id": "wulala-053",
+    "name": "盱眙小龙虾（店名待核）",
+    "city": "盱眙",
+    "district": "",
+    "address": "盱眙（具体门牌待核）",
+    "lat": 33.013,
+    "lng": 118.999,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-07-24",
+    "cuisine": "小龙虾",
+    "signature_dishes": [
+      "小龙虾"
+    ],
+    "price_per_person": 608,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-07-24；25斤"
+  },
+  {
+    "id": "wulala-054",
+    "name": "齐齐哈尔大肉串（店名待核）",
+    "city": "齐齐哈尔",
+    "district": "",
+    "address": "齐齐哈尔（具体门牌待核）",
+    "lat": 47.3543,
+    "lng": 123.918,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-06-21",
+    "cuisine": "大肉串",
+    "signature_dishes": [
+      "大肉串"
+    ],
+    "price_per_person": 575,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-06-21"
+  },
+  {
+    "id": "wulala-055",
+    "name": "齐齐哈尔手拉面（店名待核）",
+    "city": "齐齐哈尔",
+    "district": "",
+    "address": "齐齐哈尔（具体门牌待核）",
+    "lat": 47.3543,
+    "lng": 123.918,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-06-04",
+    "cuisine": "手拉面",
+    "signature_dishes": [
+      "手拉面"
+    ],
+    "price_per_person": 387,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-06-04；三碗"
+  },
+  {
+    "id": "wulala-056",
+    "name": "齐齐哈尔家庭烤肉（店名待核）",
+    "city": "齐齐哈尔",
+    "district": "",
+    "address": "齐齐哈尔（具体门牌待核）",
+    "lat": 47.3543,
+    "lng": 123.918,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-06-02",
+    "cuisine": "家庭烤肉",
+    "signature_dishes": [
+      "家庭烤肉"
+    ],
+    "price_per_person": 396,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-06-02"
+  },
+  {
+    "id": "wulala-057",
+    "name": "保定鸡蛋膏（店名待核）",
+    "city": "保定",
+    "district": "",
+    "address": "保定（具体门牌待核）",
+    "lat": 38.8671,
+    "lng": 115.4646,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-05-31",
+    "cuisine": "鸡蛋膏",
+    "signature_dishes": [
+      "鸡蛋膏"
+    ],
+    "price_per_person": 17,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-05-31"
+  },
+  {
+    "id": "wulala-058",
+    "name": "保定保定菜（鱼香肉丝）（店名待核）",
+    "city": "保定",
+    "district": "",
+    "address": "保定（具体门牌待核）",
+    "lat": 38.8671,
+    "lng": 115.4646,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-05-29",
+    "cuisine": "保定菜（鱼香肉丝）",
+    "signature_dishes": [
+      "保定菜（鱼香肉丝）"
+    ],
+    "price_per_person": 280,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-05-29"
+  },
+  {
+    "id": "wulala-059",
+    "name": "保定驴肉火烧（店名待核）",
+    "city": "保定",
+    "district": "",
+    "address": "保定（具体门牌待核）",
+    "lat": 38.8671,
+    "lng": 115.4646,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-05-27",
+    "cuisine": "驴肉火烧",
+    "signature_dishes": [
+      "驴肉火烧"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-05-27；20个"
+  },
+  {
+    "id": "wulala-060",
+    "name": "兰州羊头（店名待核）",
+    "city": "兰州",
+    "district": "",
+    "address": "兰州（具体门牌待核）",
+    "lat": 36.0611,
+    "lng": 103.8343,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-05-18",
+    "cuisine": "羊头",
+    "signature_dishes": [
+      "羊头"
+    ],
+    "price_per_person": 143,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-05-18；深夜料理"
+  },
+  {
+    "id": "wulala-061",
+    "name": "兰州洋芋片（麻辣）（店名待核）",
+    "city": "兰州",
+    "district": "",
+    "address": "兰州（具体门牌待核）",
+    "lat": 36.0611,
+    "lng": 103.8343,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-05-17",
+    "cuisine": "洋芋片（麻辣）",
+    "signature_dishes": [
+      "洋芋片（麻辣）"
+    ],
+    "price_per_person": 125,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-05-17"
+  },
+  {
+    "id": "wulala-062",
+    "name": "天水麻辣烫（店名待核）",
+    "city": "天水",
+    "district": "",
+    "address": "天水（具体门牌待核）",
+    "lat": 34.5803,
+    "lng": 105.7249,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-05-13",
+    "cuisine": "麻辣烫",
+    "signature_dishes": [
+      "麻辣烫"
+    ],
+    "price_per_person": 32,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-05-13"
+  },
+  {
+    "id": "wulala-063",
+    "name": "兰州热凉面（店名待核）",
+    "city": "兰州",
+    "district": "",
+    "address": "兰州（具体门牌待核）",
+    "lat": 36.0611,
+    "lng": 103.8343,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-05-02",
+    "cuisine": "热凉面",
+    "signature_dishes": [
+      "热凉面"
+    ],
+    "price_per_person": 47,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-05-02；配浆水"
+  },
+  {
+    "id": "wulala-064",
+    "name": "滕州菜煎饼（店名待核）",
+    "city": "滕州",
+    "district": "",
+    "address": "滕州（具体门牌待核）",
+    "lat": 35.1055,
+    "lng": 117.1631,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-04-24",
+    "cuisine": "菜煎饼",
+    "signature_dishes": [
+      "菜煎饼"
+    ],
+    "price_per_person": 8,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-04-24"
+  },
+  {
+    "id": "wulala-065",
+    "name": "滕州手擀大肉面（店名待核）",
+    "city": "滕州",
+    "district": "",
+    "address": "滕州（具体门牌待核）",
+    "lat": 35.1055,
+    "lng": 117.1631,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-04-23",
+    "cuisine": "手擀大肉面",
+    "signature_dishes": [
+      "手擀大肉面"
+    ],
+    "price_per_person": 34,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-04-23"
+  },
+  {
+    "id": "wulala-066",
+    "name": "郑州蒸菜（店名待核）",
+    "city": "郑州",
+    "district": "",
+    "address": "郑州（具体门牌待核）",
+    "lat": 34.7466,
+    "lng": 113.6253,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-04-03",
+    "cuisine": "蒸菜",
+    "signature_dishes": [
+      "蒸菜"
+    ],
+    "price_per_person": 8,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-04-03；夜市"
+  },
+  {
+    "id": "wulala-067",
+    "name": "郑州菜莽（店名待核）",
+    "city": "郑州",
+    "district": "",
+    "address": "郑州（具体门牌待核）",
+    "lat": 34.7466,
+    "lng": 113.6253,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-04-01",
+    "cuisine": "菜莽",
+    "signature_dishes": [
+      "菜莽"
+    ],
+    "price_per_person": 451,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-04-01；配烤肉果啤"
+  },
+  {
+    "id": "wulala-068",
+    "name": "郑州老式炒面（店名待核）",
+    "city": "郑州",
+    "district": "",
+    "address": "郑州（具体门牌待核）",
+    "lat": 34.7466,
+    "lng": 113.6253,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-03-21",
+    "cuisine": "老式炒面",
+    "signature_dishes": [
+      "老式炒面"
+    ],
+    "price_per_person": 22,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-03-21；超大份"
+  },
+  {
+    "id": "wulala-069",
+    "name": "蓟县朝鲜面（店名待核）",
+    "city": "蓟县",
+    "district": "",
+    "address": "蓟县（具体门牌待核）",
+    "lat": 40.045,
+    "lng": 117.4048,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-03-20",
+    "cuisine": "朝鲜面",
+    "signature_dishes": [
+      "朝鲜面"
+    ],
+    "price_per_person": 10.5,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-03-20；天津蓟州区"
+  },
+  {
+    "id": "wulala-070",
+    "name": "北京胡同家常菜（店名待核）",
+    "city": "北京",
+    "district": "",
+    "address": "北京（具体门牌待核）",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-03-19",
+    "cuisine": "胡同家常菜",
+    "signature_dishes": [
+      "胡同家常菜"
+    ],
+    "price_per_person": 280,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-03-19"
+  },
+  {
+    "id": "wulala-071",
+    "name": "北京襄阳牛肉面（店名待核）",
+    "city": "北京",
+    "district": "",
+    "address": "北京（具体门牌待核）",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-03-18",
+    "cuisine": "襄阳牛肉面",
+    "signature_dishes": [
+      "襄阳牛肉面"
+    ],
+    "price_per_person": 315,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-03-18；九碗"
+  },
+  {
+    "id": "wulala-072",
+    "name": "上海深夜烤肉（店名待核）",
+    "city": "上海",
+    "district": "",
+    "address": "上海（具体门牌待核）",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-03-07",
+    "cuisine": "深夜烤肉",
+    "signature_dishes": [
+      "深夜烤肉"
+    ],
+    "price_per_person": 115,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-03-07"
+  },
+  {
+    "id": "wulala-073",
+    "name": "上海本帮菜（米其林）（店名待核）",
+    "city": "上海",
+    "district": "进贤路",
+    "address": "上海进贤路（具体门牌待核）",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-03-06",
+    "cuisine": "本帮菜（米其林）",
+    "signature_dishes": [
+      "本帮菜（米其林）"
+    ],
+    "price_per_person": 1005,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-03-06；进贤路，含红烧肉"
+  },
+  {
+    "id": "wulala-074",
+    "name": "西安炒拉条&菠菜面（店名待核）",
+    "city": "西安",
+    "district": "",
+    "address": "西安（具体门牌待核）",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-03-01",
+    "cuisine": "炒拉条&菠菜面",
+    "signature_dishes": [
+      "炒拉条&菠菜面"
+    ],
+    "price_per_person": 24,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-03-01"
+  },
+  {
+    "id": "wulala-075",
+    "name": "西安烤肉（店名待核）",
+    "city": "西安",
+    "district": "",
+    "address": "西安（具体门牌待核）",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-02-29",
+    "cuisine": "烤肉",
+    "signature_dishes": [
+      "烤肉"
+    ],
+    "price_per_person": 374.2,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-02-29；301串"
+  },
+  {
+    "id": "wulala-076",
+    "name": "西安小炒（店名待核）",
+    "city": "西安",
+    "district": "",
+    "address": "西安（具体门牌待核）",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-02-22",
+    "cuisine": "小炒",
+    "signature_dishes": [
+      "小炒"
+    ],
+    "price_per_person": 190,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-02-22；配20个馍"
+  },
+  {
+    "id": "wulala-077",
+    "name": "西安蒸饺（店名待核）",
+    "city": "西安",
+    "district": "",
+    "address": "西安（具体门牌待核）",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-02-21",
+    "cuisine": "蒸饺",
+    "signature_dishes": [
+      "蒸饺"
+    ],
+    "price_per_person": 133,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-02-21"
+  },
+  {
+    "id": "wulala-078",
+    "name": "南昌拌粉（店名待核）",
+    "city": "南昌",
+    "district": "",
+    "address": "南昌（具体门牌待核）",
+    "lat": 28.682,
+    "lng": 115.8579,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-02-08",
+    "cuisine": "拌粉",
+    "signature_dishes": [
+      "拌粉"
+    ],
+    "price_per_person": 16,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-02-08；早餐"
+  },
+  {
+    "id": "wulala-079",
+    "name": "台州小海鲜（店名待核）",
+    "city": "台州",
+    "district": "",
+    "address": "台州（具体门牌待核）",
+    "lat": 28.656,
+    "lng": 121.42,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-02-07",
+    "cuisine": "小海鲜",
+    "signature_dishes": [
+      "小海鲜"
+    ],
+    "price_per_person": 200,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-02-07；8个硬菜"
+  },
+  {
+    "id": "wulala-080",
+    "name": "台州姜汤面&手打面（店名待核）",
+    "city": "台州",
+    "district": "",
+    "address": "台州（具体门牌待核）",
+    "lat": 28.656,
+    "lng": 121.42,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-02-06",
+    "cuisine": "姜汤面&手打面",
+    "signature_dishes": [
+      "姜汤面&手打面"
+    ],
+    "price_per_person": 205,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-02-06"
+  },
+  {
+    "id": "wulala-081",
+    "name": "新昌蒸馄饨（店名待核）",
+    "city": "新昌",
+    "district": "",
+    "address": "新昌（具体门牌待核）",
+    "lat": 29.5,
+    "lng": 120.9,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-02-05",
+    "cuisine": "蒸馄饨",
+    "signature_dishes": [
+      "蒸馄饨"
+    ],
+    "price_per_person": 142,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-02-05；17笼，绍兴新昌"
+  },
+  {
+    "id": "wulala-082",
+    "name": "沧州大碳水（焖饼）（店名待核）",
+    "city": "沧州",
+    "district": "",
+    "address": "沧州（具体门牌待核）",
+    "lat": 38.3037,
+    "lng": 116.8388,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-01-25",
+    "cuisine": "大碳水（焖饼）",
+    "signature_dishes": [
+      "大碳水（焖饼）"
+    ],
+    "price_per_person": 26,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-01-25"
+  },
+  {
+    "id": "wulala-083",
+    "name": "沧州火锅鸡（店名待核）",
+    "city": "沧州",
+    "district": "",
+    "address": "沧州（具体门牌待核）",
+    "lat": 38.3037,
+    "lng": 116.8388,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-01-17",
+    "cuisine": "火锅鸡",
+    "signature_dishes": [
+      "火锅鸡"
+    ],
+    "price_per_person": 174,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-01-17；6斤鸡肉"
+  },
+  {
+    "id": "wulala-084",
+    "name": "沧州羊肠子（店名待核）",
+    "city": "沧州",
+    "district": "",
+    "address": "沧州（具体门牌待核）",
+    "lat": 38.3037,
+    "lng": 116.8388,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-01-16",
+    "cuisine": "羊肠子",
+    "signature_dishes": [
+      "羊肠子"
+    ],
+    "price_per_person": 30,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-01-16；早餐"
+  },
+  {
+    "id": "wulala-085",
+    "name": "北京豆汁（店名待核）",
+    "city": "北京",
+    "district": "",
+    "address": "北京（具体门牌待核）",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-01-12",
+    "cuisine": "豆汁",
+    "signature_dishes": [
+      "豆汁"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-01-12"
+  },
+  {
+    "id": "wulala-086",
+    "name": "北京炙子烤肉（店名待核）",
+    "city": "北京",
+    "district": "",
+    "address": "北京（具体门牌待核）",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2024-01-10",
+    "cuisine": "炙子烤肉",
+    "signature_dishes": [
+      "炙子烤肉"
+    ],
+    "price_per_person": 2133,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2024-01-10"
+  },
+  {
+    "id": "wulala-087",
+    "name": "安阳扣碗（店名待核）",
+    "city": "安阳",
+    "district": "滑县",
+    "address": "安阳滑县（具体门牌待核）",
+    "lat": 36.0997,
+    "lng": 114.3931,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-12-30",
+    "cuisine": "扣碗",
+    "signature_dishes": [
+      "扣碗"
+    ],
+    "price_per_person": 140,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-12-30；滑县"
+  },
+  {
+    "id": "wulala-088",
+    "name": "安阳BFC（店名待核）",
+    "city": "安阳",
+    "district": "",
+    "address": "安阳（具体门牌待核）",
+    "lat": 36.0997,
+    "lng": 114.3931,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-12-29",
+    "cuisine": "BFC",
+    "signature_dishes": [
+      "BFC"
+    ],
+    "price_per_person": 17,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-12-29"
+  },
+  {
+    "id": "wulala-089",
+    "name": "大同炒刀削（店名待核）",
+    "city": "大同",
+    "district": "",
+    "address": "大同（具体门牌待核）",
+    "lat": 40.0768,
+    "lng": 113.3001,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-30",
+    "cuisine": "炒刀削",
+    "signature_dishes": [
+      "炒刀削"
+    ],
+    "price_per_person": 18,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-30；两碗"
+  },
+  {
+    "id": "wulala-090",
+    "name": "大同黄糕沾肉（店名待核）",
+    "city": "大同",
+    "district": "",
+    "address": "大同（具体门牌待核）",
+    "lat": 40.0768,
+    "lng": 113.3001,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-25",
+    "cuisine": "黄糕沾肉",
+    "signature_dishes": [
+      "黄糕沾肉"
+    ],
+    "price_per_person": 169,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-25"
+  },
+  {
+    "id": "wulala-091",
+    "name": "大同刀削面（店名待核）",
+    "city": "大同",
+    "district": "",
+    "address": "大同（具体门牌待核）",
+    "lat": 40.0768,
+    "lng": 113.3001,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-24",
+    "cuisine": "刀削面",
+    "signature_dishes": [
+      "刀削面"
+    ],
+    "price_per_person": 28.5,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-24"
+  },
+  {
+    "id": "wulala-092",
+    "name": "遵义烤鸡（店名待核）",
+    "city": "遵义",
+    "district": "",
+    "address": "遵义（具体门牌待核）",
+    "lat": 27.7256,
+    "lng": 106.9273,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-22",
+    "cuisine": "烤鸡",
+    "signature_dishes": [
+      "烤鸡"
+    ],
+    "price_per_person": 520,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-22"
+  },
+  {
+    "id": "wulala-093",
+    "name": "遵义豆花面（店名待核）",
+    "city": "遵义",
+    "district": "",
+    "address": "遵义（具体门牌待核）",
+    "lat": 27.7256,
+    "lng": 106.9273,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-21",
+    "cuisine": "豆花面",
+    "signature_dishes": [
+      "豆花面"
+    ],
+    "price_per_person": 30,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-21"
+  },
+  {
+    "id": "wulala-094",
+    "name": "遵义酸汤火锅（店名待核）",
+    "city": "遵义",
+    "district": "",
+    "address": "遵义（具体门牌待核）",
+    "lat": 27.7256,
+    "lng": 106.9273,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-17",
+    "cuisine": "酸汤火锅",
+    "signature_dishes": [
+      "酸汤火锅"
+    ],
+    "price_per_person": 462,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-17"
+  },
+  {
+    "id": "wulala-095",
+    "name": "遵义羊肉粉（店名待核）",
+    "city": "遵义",
+    "district": "",
+    "address": "遵义（具体门牌待核）",
+    "lat": 27.7256,
+    "lng": 106.9273,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-16",
+    "cuisine": "羊肉粉",
+    "signature_dishes": [
+      "羊肉粉"
+    ],
+    "price_per_person": 30,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-16；两碗加肉"
+  },
+  {
+    "id": "wulala-096",
+    "name": "上海青龙面（店名待核）",
+    "city": "上海",
+    "district": "",
+    "address": "上海（具体门牌待核）",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-11-08",
+    "cuisine": "青龙面",
+    "signature_dishes": [
+      "青龙面"
+    ],
+    "price_per_person": 338,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-11-08；连吃十个生蚝"
+  },
+  {
+    "id": "wulala-097",
+    "name": "伊宁黄面烤肉（店名待核）",
+    "city": "伊宁",
+    "district": "",
+    "address": "伊宁（具体门牌待核）",
+    "lat": 43.9219,
+    "lng": 81.2417,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-10-27",
+    "cuisine": "黄面烤肉",
+    "signature_dishes": [
+      "黄面烤肉"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-10-27；新疆伊宁，早午餐"
+  },
+  {
+    "id": "wulala-098",
+    "name": "天津海鲜晚餐（店名待核）",
+    "city": "天津",
+    "district": "塘沽",
+    "address": "天津塘沽（具体门牌待核）",
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-10-11",
+    "cuisine": "海鲜晚餐",
+    "signature_dishes": [
+      "海鲜晚餐"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-10-11；塘沽，烛光晚餐"
+  },
+  {
+    "id": "wulala-099",
+    "name": "天津包子（店名待核）",
+    "city": "天津",
+    "district": "",
+    "address": "天津（具体门牌待核）",
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-10-05",
+    "cuisine": "包子",
+    "signature_dishes": [
+      "包子"
+    ],
+    "price_per_person": 200,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-10-05；四斤"
+  },
+  {
+    "id": "wulala-100",
+    "name": "天津西北角早点（店名待核）",
+    "city": "天津",
+    "district": "",
+    "address": "天津（具体门牌待核）",
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-10-04",
+    "cuisine": "西北角早点",
+    "signature_dishes": [
+      "西北角早点"
+    ],
+    "price_per_person": 39.8,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-10-04"
+  },
+  {
+    "id": "wulala-101",
+    "name": "芜湖麻辣烫（店名待核）",
+    "city": "芜湖",
+    "district": "",
+    "address": "芜湖（具体门牌待核）",
+    "lat": 31.3266,
+    "lng": 118.3762,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-09-25",
+    "cuisine": "麻辣烫",
+    "signature_dishes": [
+      "麻辣烫"
+    ],
+    "price_per_person": 65,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-09-25"
+  },
+  {
+    "id": "wulala-102",
+    "name": "芜湖面（店名待核）",
+    "city": "芜湖",
+    "district": "",
+    "address": "芜湖（具体门牌待核）",
+    "lat": 31.3266,
+    "lng": 118.3762,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-09-24",
+    "cuisine": "面",
+    "signature_dishes": [
+      "面"
+    ],
+    "price_per_person": 32.5,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-09-24；汤面和拌面"
+  },
+  {
+    "id": "wulala-103",
+    "name": "芜湖大排档（店名待核）",
+    "city": "芜湖",
+    "district": "",
+    "address": "芜湖（具体门牌待核）",
+    "lat": 31.3266,
+    "lng": 118.3762,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-09-20",
+    "cuisine": "大排档",
+    "signature_dishes": [
+      "大排档"
+    ],
+    "price_per_person": 75,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-09-20；三人共花75元"
+  },
+  {
+    "id": "wulala-104",
+    "name": "芜湖渣肉蒸饭（店名待核）",
+    "city": "芜湖",
+    "district": "",
+    "address": "芜湖（具体门牌待核）",
+    "lat": 31.3266,
+    "lng": 118.3762,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-09-19",
+    "cuisine": "渣肉蒸饭",
+    "signature_dishes": [
+      "渣肉蒸饭"
+    ],
+    "price_per_person": 24,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-09-19"
+  },
+  {
+    "id": "wulala-105",
+    "name": "北京牛肉面（老北京）（店名待核）",
+    "city": "北京",
+    "district": "",
+    "address": "北京（具体门牌待核）",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-09-13",
+    "cuisine": "牛肉面（老北京）",
+    "signature_dishes": [
+      "牛肉面（老北京）"
+    ],
+    "price_per_person": 20,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-09-13"
+  },
+  {
+    "id": "wulala-106",
+    "name": "哈尔滨俄餐（店名待核）",
+    "city": "哈尔滨",
+    "district": "",
+    "address": "哈尔滨（具体门牌待核）",
+    "lat": 45.8038,
+    "lng": 126.535,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-08-25",
+    "cuisine": "俄餐",
+    "signature_dishes": [
+      "俄餐"
+    ],
+    "price_per_person": 314,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-08-25"
+  },
+  {
+    "id": "wulala-107",
+    "name": "哈尔滨东北菜（店名待核）",
+    "city": "哈尔滨",
+    "district": "",
+    "address": "哈尔滨（具体门牌待核）",
+    "lat": 45.8038,
+    "lng": 126.535,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-08-24",
+    "cuisine": "东北菜",
+    "signature_dishes": [
+      "东北菜"
+    ],
+    "price_per_person": 69,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-08-24"
+  },
+  {
+    "id": "wulala-108",
+    "name": "许昌麻辣香锅（店名待核）",
+    "city": "许昌",
+    "district": "",
+    "address": "许昌（具体门牌待核）",
+    "lat": 34.0357,
+    "lng": 113.8523,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-08-09",
+    "cuisine": "麻辣香锅",
+    "signature_dishes": [
+      "麻辣香锅"
+    ],
+    "price_per_person": 461.2,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-08-09"
+  },
+  {
+    "id": "wulala-109",
+    "name": "许昌烩面（店名待核）",
+    "city": "许昌",
+    "district": "",
+    "address": "许昌（具体门牌待核）",
+    "lat": 34.0357,
+    "lng": 113.8523,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-08-07",
+    "cuisine": "烩面",
+    "signature_dishes": [
+      "烩面"
+    ],
+    "price_per_person": 21,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-08-07"
+  },
+  {
+    "id": "wulala-110",
+    "name": "许昌水煎包&胡辣汤（店名待核）",
+    "city": "许昌",
+    "district": "",
+    "address": "许昌（具体门牌待核）",
+    "lat": 34.0357,
+    "lng": 113.8523,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-08-02",
+    "cuisine": "水煎包&胡辣汤",
+    "signature_dishes": [
+      "水煎包&胡辣汤"
+    ],
+    "price_per_person": 98,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-08-02"
+  },
+  {
+    "id": "wulala-111",
+    "name": "福州食早（煎包+牛滑汤+猪腰）（店名待核）",
+    "city": "福州",
+    "district": "",
+    "address": "福州（具体门牌待核）",
+    "lat": 26.0745,
+    "lng": 119.2965,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-07-04",
+    "cuisine": "食早（煎包+牛滑汤+猪腰）",
+    "signature_dishes": [
+      "食早（煎包+牛滑汤+猪腰）"
+    ],
+    "price_per_person": 46,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-07-04"
+  },
+  {
+    "id": "wulala-112",
+    "name": "天津捞面（店名待核）",
+    "city": "天津",
+    "district": "",
+    "address": "天津（具体门牌待核）",
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-06-22",
+    "cuisine": "捞面",
+    "signature_dishes": [
+      "捞面"
+    ],
+    "price_per_person": 43,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-06-22"
+  },
+  {
+    "id": "wulala-113",
+    "name": "天津大包子（津门）（店名待核）",
+    "city": "天津",
+    "district": "",
+    "address": "天津（具体门牌待核）",
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-06-21",
+    "cuisine": "大包子（津门）",
+    "signature_dishes": [
+      "大包子（津门）"
+    ],
+    "price_per_person": 106.5,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-06-21；三壮汉"
+  },
+  {
+    "id": "wulala-114",
+    "name": "天津早餐（油条果篦儿）（店名待核）",
+    "city": "天津",
+    "district": "",
+    "address": "天津（具体门牌待核）",
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-06-20",
+    "cuisine": "早餐（油条果篦儿）",
+    "signature_dishes": [
+      "早餐（油条果篦儿）"
+    ],
+    "price_per_person": 45.6,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-06-20"
+  },
+  {
+    "id": "wulala-115",
+    "name": "天津天津菜（店名待核）",
+    "city": "天津",
+    "district": "",
+    "address": "天津（具体门牌待核）",
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-06-19",
+    "cuisine": "天津菜",
+    "signature_dishes": [
+      "天津菜"
+    ],
+    "price_per_person": 189,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-06-19；三壮汉"
+  },
+  {
+    "id": "wulala-116",
+    "name": "蚌埠烧饼夹里脊（店名待核）",
+    "city": "蚌埠",
+    "district": "",
+    "address": "蚌埠（具体门牌待核）",
+    "lat": 32.9169,
+    "lng": 117.3897,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-06-01",
+    "cuisine": "烧饼夹里脊",
+    "signature_dishes": [
+      "烧饼夹里脊"
+    ],
+    "price_per_person": 160,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-06-01"
+  },
+  {
+    "id": "wulala-117",
+    "name": "蚌埠干扣面（店名待核）",
+    "city": "蚌埠",
+    "district": "",
+    "address": "蚌埠（具体门牌待核）",
+    "lat": 32.9169,
+    "lng": 117.3897,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-05-31",
+    "cuisine": "干扣面",
+    "signature_dishes": [
+      "干扣面"
+    ],
+    "price_per_person": 23,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-05-31"
+  },
+  {
+    "id": "wulala-118",
+    "name": "青岛海鲜啤酒屋（店名待核）",
+    "city": "青岛",
+    "district": "",
+    "address": "青岛（具体门牌待核）",
+    "lat": 36.0671,
+    "lng": 120.3826,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-05-30",
+    "cuisine": "海鲜啤酒屋",
+    "signature_dishes": [
+      "海鲜啤酒屋"
+    ],
+    "price_per_person": 898,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-05-30"
+  },
+  {
+    "id": "wulala-119",
+    "name": "运城羊肉泡&胡卜（店名待核）",
+    "city": "运城",
+    "district": "",
+    "address": "运城（具体门牌待核）",
+    "lat": 35.0267,
+    "lng": 111.0069,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-05-20",
+    "cuisine": "羊肉泡&胡卜",
+    "signature_dishes": [
+      "羊肉泡&胡卜"
+    ],
+    "price_per_person": 71,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-05-20"
+  },
+  {
+    "id": "wulala-120",
+    "name": "运城鱼+面（店名待核）",
+    "city": "运城",
+    "district": "",
+    "address": "运城（具体门牌待核）",
+    "lat": 35.0267,
+    "lng": 111.0069,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-05-18",
+    "cuisine": "鱼+面",
+    "signature_dishes": [
+      "鱼+面"
+    ],
+    "price_per_person": 72,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-05-18"
+  },
+  {
+    "id": "wulala-121",
+    "name": "重庆火锅（店名待核）",
+    "city": "重庆",
+    "district": "",
+    "address": "重庆（具体门牌待核）",
+    "lat": 29.563,
+    "lng": 106.5516,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-05-17",
+    "cuisine": "火锅",
+    "signature_dishes": [
+      "火锅"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-05-17；连续多天挑战"
+  },
+  {
+    "id": "wulala-122",
+    "name": "重庆火锅（店名待核）",
+    "city": "重庆",
+    "district": "",
+    "address": "重庆（具体门牌待核）",
+    "lat": 29.563,
+    "lng": 106.5516,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-05-16",
+    "cuisine": "火锅",
+    "signature_dishes": [
+      "火锅"
+    ],
+    "price_per_person": 386,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-05-16；火锅山景点附近"
+  },
+  {
+    "id": "wulala-123",
+    "name": "武汉炭烤小龙虾（店名待核）",
+    "city": "武汉",
+    "district": "",
+    "address": "武汉（具体门牌待核）",
+    "lat": 30.5928,
+    "lng": 114.3055,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-04-12",
+    "cuisine": "炭烤小龙虾",
+    "signature_dishes": [
+      "炭烤小龙虾"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-04-12；7元一串"
+  },
+  {
+    "id": "wulala-124",
+    "name": "武汉过早（店名待核）",
+    "city": "武汉",
+    "district": "",
+    "address": "武汉（具体门牌待核）",
+    "lat": 30.5928,
+    "lng": 114.3055,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-04-11",
+    "cuisine": "过早",
+    "signature_dishes": [
+      "过早"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-04-11；冒雨边走边吃"
+  },
+  {
+    "id": "wulala-125",
+    "name": "徐州烧烤（店名待核）",
+    "city": "徐州",
+    "district": "",
+    "address": "徐州（具体门牌待核）",
+    "lat": 34.2044,
+    "lng": 117.2857,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-03-31",
+    "cuisine": "烧烤",
+    "signature_dishes": [
+      "烧烤"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-03-31"
+  },
+  {
+    "id": "wulala-126",
+    "name": "邯郸小火锅（店名待核）",
+    "city": "邯郸",
+    "district": "",
+    "address": "邯郸（具体门牌待核）",
+    "lat": 36.6252,
+    "lng": 114.5391,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-03-31",
+    "cuisine": "小火锅",
+    "signature_dishes": [
+      "小火锅"
+    ],
+    "price_per_person": 84,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-03-31"
+  },
+  {
+    "id": "wulala-127",
+    "name": "西安泡馍（店名待核）",
+    "city": "西安",
+    "district": "",
+    "address": "西安（具体门牌待核）",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-02-03",
+    "cuisine": "泡馍",
+    "signature_dishes": [
+      "泡馍"
+    ],
+    "price_per_person": 45,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-02-03"
+  },
+  {
+    "id": "wulala-128",
+    "name": "西安酸汤水饺（店名待核）",
+    "city": "西安",
+    "district": "",
+    "address": "西安（具体门牌待核）",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2023-01-31",
+    "cuisine": "酸汤水饺",
+    "signature_dishes": [
+      "酸汤水饺"
+    ],
+    "price_per_person": 36,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2023-01-31；九两"
+  },
+  {
+    "id": "wulala-129",
+    "name": "襄阳牛排锅（店名待核）",
+    "city": "襄阳",
+    "district": "",
+    "address": "襄阳（具体门牌待核）",
+    "lat": 32.009,
+    "lng": 112.1223,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-12-30",
+    "cuisine": "牛排锅",
+    "signature_dishes": [
+      "牛排锅"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-12-30；冬夜"
+  },
+  {
+    "id": "wulala-130",
+    "name": "襄阳牛肉面（店名待核）",
+    "city": "襄阳",
+    "district": "",
+    "address": "襄阳（具体门牌待核）",
+    "lat": 32.009,
+    "lng": 112.1223,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-12-27",
+    "cuisine": "牛肉面",
+    "signature_dishes": [
+      "牛肉面"
+    ],
+    "price_per_person": 30,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-12-27"
+  },
+  {
+    "id": "wulala-131",
+    "name": "上海菠菜面（店名待核）",
+    "city": "上海",
+    "district": "",
+    "address": "上海（具体门牌待核）",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-12-06",
+    "cuisine": "菠菜面",
+    "signature_dishes": [
+      "菠菜面"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-12-06"
+  },
+  {
+    "id": "wulala-132",
+    "name": "沈阳鸡汤面（店名待核）",
+    "city": "沈阳",
+    "district": "",
+    "address": "沈阳（具体门牌待核）",
+    "lat": 41.8057,
+    "lng": 123.4315,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-11-18",
+    "cuisine": "鸡汤面",
+    "signature_dishes": [
+      "鸡汤面"
+    ],
+    "price_per_person": 5,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-11-18"
+  },
+  {
+    "id": "wulala-133",
+    "name": "嵊州小笼包（店名待核）",
+    "city": "嵊州",
+    "district": "",
+    "address": "嵊州（具体门牌待核）",
+    "lat": 29.59,
+    "lng": 120.83,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-11-15",
+    "cuisine": "小笼包",
+    "signature_dishes": [
+      "小笼包"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-11-15；十六笼，绍兴嵊州"
+  },
+  {
+    "id": "wulala-134",
+    "name": "成都烤羊肉（店名待核）",
+    "city": "成都",
+    "district": "",
+    "address": "成都（具体门牌待核）",
+    "lat": 30.6586,
+    "lng": 104.0647,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-10-21",
+    "cuisine": "烤羊肉",
+    "signature_dishes": [
+      "烤羊肉"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-10-21；小区里，青海表姐手艺"
+  },
+  {
+    "id": "wulala-135",
+    "name": "重庆三合一小面（店名待核）",
+    "city": "重庆",
+    "district": "",
+    "address": "重庆（具体门牌待核）",
+    "lat": 29.563,
+    "lng": 106.5516,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-10-11",
+    "cuisine": "三合一小面",
+    "signature_dishes": [
+      "三合一小面"
+    ],
+    "price_per_person": 37,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-10-11"
+  },
+  {
+    "id": "wulala-136",
+    "name": "桂林米粉（店名待核）",
+    "city": "桂林",
+    "district": "",
+    "address": "桂林（具体门牌待核）",
+    "lat": 25.2736,
+    "lng": 110.29,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-09-27",
+    "cuisine": "米粉",
+    "signature_dishes": [
+      "米粉"
+    ],
+    "price_per_person": 27,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-09-27；加料加辣"
+  },
+  {
+    "id": "wulala-137",
+    "name": "柳州螺蛳粉（店名待核）",
+    "city": "柳州",
+    "district": "",
+    "address": "柳州（具体门牌待核）",
+    "lat": 24.3255,
+    "lng": 109.429,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-09-23",
+    "cuisine": "螺蛳粉",
+    "signature_dishes": [
+      "螺蛳粉"
+    ],
+    "price_per_person": 30,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-09-23；两碗，加炸蛋叉烧香肠豆泡"
+  },
+  {
+    "id": "wulala-138",
+    "name": "延吉烧烤啤酒锅（店名待核）",
+    "city": "延吉",
+    "district": "",
+    "address": "延吉（具体门牌待核）",
+    "lat": 42.905,
+    "lng": 129.5086,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-09-13",
+    "cuisine": "烧烤啤酒锅",
+    "signature_dishes": [
+      "烧烤啤酒锅"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-09-13"
+  },
+  {
+    "id": "wulala-139",
+    "name": "兰溪牛肉面（店名待核）",
+    "city": "兰溪",
+    "district": "",
+    "address": "兰溪（具体门牌待核）",
+    "lat": 29.2081,
+    "lng": 119.4602,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-08-16",
+    "cuisine": "牛肉面",
+    "signature_dishes": [
+      "牛肉面"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-08-16；八两，浙江金华兰溪"
+  },
+  {
+    "id": "wulala-140",
+    "name": "宁波小海鲜（店名待核）",
+    "city": "宁波",
+    "district": "",
+    "address": "宁波（具体门牌待核）",
+    "lat": 29.8683,
+    "lng": 121.544,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-08-12",
+    "cuisine": "小海鲜",
+    "signature_dishes": [
+      "小海鲜"
+    ],
+    "price_per_person": 491,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-08-12"
+  },
+  {
+    "id": "wulala-141",
+    "name": "运城大盘鸡（店名待核）",
+    "city": "运城",
+    "district": "",
+    "address": "运城（具体门牌待核）",
+    "lat": 35.0267,
+    "lng": 111.0069,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-07-19",
+    "cuisine": "大盘鸡",
+    "signature_dishes": [
+      "大盘鸡"
+    ],
+    "price_per_person": 12,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-07-19"
+  },
+  {
+    "id": "wulala-142",
+    "name": "杨凌蘸水面（店名待核）",
+    "city": "杨凌",
+    "district": "",
+    "address": "杨凌（具体门牌待核）",
+    "lat": 34.2621,
+    "lng": 108.0828,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-07-05",
+    "cuisine": "蘸水面",
+    "signature_dishes": [
+      "蘸水面"
+    ],
+    "price_per_person": 2.3,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-07-05；咸阳杨凌"
+  },
+  {
+    "id": "wulala-143",
+    "name": "岐山臊子面（店名待核）",
+    "city": "岐山",
+    "district": "",
+    "address": "岐山（具体门牌待核）",
+    "lat": 34.4442,
+    "lng": 107.6314,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-07-01",
+    "cuisine": "臊子面",
+    "signature_dishes": [
+      "臊子面"
+    ],
+    "price_per_person": 3,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-07-01；宝鸡岐山"
+  },
+  {
+    "id": "wulala-144",
+    "name": "石棉石棉火上飘（店名待核）",
+    "city": "石棉",
+    "district": "",
+    "address": "石棉（具体门牌待核）",
+    "lat": 29.228,
+    "lng": 102.348,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-06-24",
+    "cuisine": "石棉火上飘",
+    "signature_dishes": [
+      "石棉火上飘"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-06-24；雅安石棉"
+  },
+  {
+    "id": "wulala-145",
+    "name": "峨眉山烧烤（店名待核）",
+    "city": "峨眉山",
+    "district": "",
+    "address": "峨眉山（具体门牌待核）",
+    "lat": 29.6013,
+    "lng": 103.4844,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-06-14",
+    "cuisine": "烧烤",
+    "signature_dishes": [
+      "烧烤"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-06-14；矿机厂附近，乐山峨眉山"
+  },
+  {
+    "id": "wulala-146",
+    "name": "德阳牙拔兔（店名待核）",
+    "city": "德阳",
+    "district": "",
+    "address": "德阳（具体门牌待核）",
+    "lat": 31.127,
+    "lng": 104.398,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-05-31",
+    "cuisine": "牙拔兔",
+    "signature_dishes": [
+      "牙拔兔"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-05-31"
+  },
+  {
+    "id": "wulala-147",
+    "name": "银川刀削面（店名待核）",
+    "city": "银川",
+    "district": "",
+    "address": "银川（具体门牌待核）",
+    "lat": 38.4872,
+    "lng": 106.2309,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-05-24",
+    "cuisine": "刀削面",
+    "signature_dishes": [
+      "刀削面"
+    ],
+    "price_per_person": 33,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-05-24"
+  },
+  {
+    "id": "wulala-148",
+    "name": "南澳岛粿条海鲜汤（店名待核）",
+    "city": "南澳岛",
+    "district": "",
+    "address": "南澳岛（具体门牌待核）",
+    "lat": 23.418,
+    "lng": 117.057,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-05-06",
+    "cuisine": "粿条海鲜汤",
+    "signature_dishes": [
+      "粿条海鲜汤"
+    ],
+    "price_per_person": 20,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-05-06；汕头南澳岛"
+  },
+  {
+    "id": "wulala-149",
+    "name": "北京麻辣烫（店名待核）",
+    "city": "北京",
+    "district": "",
+    "address": "北京（具体门牌待核）",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-04-26",
+    "cuisine": "麻辣烫",
+    "signature_dishes": [
+      "麻辣烫"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-04-26；北三环，16.8元一斤"
+  },
+  {
+    "id": "wulala-150",
+    "name": "自贡烧烤（店名待核）",
+    "city": "自贡",
+    "district": "",
+    "address": "自贡（具体门牌待核）",
+    "lat": 29.3392,
+    "lng": 104.7784,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-04-01",
+    "cuisine": "烧烤",
+    "signature_dishes": [
+      "烧烤"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-04-01"
+  },
+  {
+    "id": "wulala-151",
+    "name": "成都素椒面（店名待核）",
+    "city": "成都",
+    "district": "",
+    "address": "成都（具体门牌待核）",
+    "lat": 30.6586,
+    "lng": 104.0647,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-03-29",
+    "cuisine": "素椒面",
+    "signature_dishes": [
+      "素椒面"
+    ],
+    "price_per_person": 22,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-03-29"
+  },
+  {
+    "id": "wulala-152",
+    "name": "郏县羊肉饸饹面（店名待核）",
+    "city": "郏县",
+    "district": "",
+    "address": "郏县（具体门牌待核）",
+    "lat": 33.97,
+    "lng": 113.21,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-03-05",
+    "cuisine": "羊肉饸饹面",
+    "signature_dishes": [
+      "羊肉饸饹面"
+    ],
+    "price_per_person": 18,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-03-05；两碗，平顶山郏县"
+  },
+  {
+    "id": "wulala-153",
+    "name": "洛阳牛肉汤（店名待核）",
+    "city": "洛阳",
+    "district": "",
+    "address": "洛阳（具体门牌待核）",
+    "lat": 34.6197,
+    "lng": 112.454,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-03-01",
+    "cuisine": "牛肉汤",
+    "signature_dishes": [
+      "牛肉汤"
+    ],
+    "price_per_person": 24,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-03-01"
+  },
+  {
+    "id": "wulala-154",
+    "name": "安顺烙锅（店名待核）",
+    "city": "安顺",
+    "district": "",
+    "address": "安顺（具体门牌待核）",
+    "lat": 26.2452,
+    "lng": 105.9324,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-02-22",
+    "cuisine": "烙锅",
+    "signature_dishes": [
+      "烙锅"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-02-22"
+  },
+  {
+    "id": "wulala-155",
+    "name": "安顺牛肉粉（店名待核）",
+    "city": "安顺",
+    "district": "",
+    "address": "安顺（具体门牌待核）",
+    "lat": 26.2452,
+    "lng": 105.9324,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-02-18",
+    "cuisine": "牛肉粉",
+    "signature_dishes": [
+      "牛肉粉"
+    ],
+    "price_per_person": 24,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-02-18；两碗"
+  },
+  {
+    "id": "wulala-156",
+    "name": "上海北京烤鸭风味（店名待核）",
+    "city": "上海",
+    "district": "",
+    "address": "上海（具体门牌待核）",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-01-18",
+    "cuisine": "北京烤鸭风味",
+    "signature_dishes": [
+      "北京烤鸭风味"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-01-18；在上海调查最火北京烤鸭"
+  },
+  {
+    "id": "wulala-157",
+    "name": "上海牛舌拌面（店名待核）",
+    "city": "上海",
+    "district": "",
+    "address": "上海（具体门牌待核）",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-01-14",
+    "cuisine": "牛舌拌面",
+    "signature_dishes": [
+      "牛舌拌面"
+    ],
+    "price_per_person": 35,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-01-14；沪上著名"
+  },
+  {
+    "id": "wulala-158",
+    "name": "普宁夜茶（店名待核）",
+    "city": "普宁",
+    "district": "",
+    "address": "普宁（具体门牌待核）",
+    "lat": 23.2967,
+    "lng": 116.162,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2022-01-07",
+    "cuisine": "夜茶",
+    "signature_dishes": [
+      "夜茶"
+    ],
+    "price_per_person": 61,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2022-01-07"
+  },
+  {
+    "id": "wulala-159",
+    "name": "兰州牛肉面（二细）（店名待核）",
+    "city": "兰州",
+    "district": "",
+    "address": "兰州（具体门牌待核）",
+    "lat": 36.0611,
+    "lng": 103.8343,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2021-12-31",
+    "cuisine": "牛肉面（二细）",
+    "signature_dishes": [
+      "牛肉面（二细）"
+    ],
+    "price_per_person": 25,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2021-12-31；加四个蛋"
+  },
+  {
+    "id": "wulala-160",
+    "name": "兰州隐藏菜单（店名待核）",
+    "city": "兰州",
+    "district": "",
+    "address": "兰州（具体门牌待核）",
+    "lat": 36.0611,
+    "lng": 103.8343,
+    "source": "wulala",
+    "source_detail": "特别乌啦啦 B站发布视频，2021-12-28",
+    "cuisine": "隐藏菜单",
+    "signature_dishes": [
+      "隐藏菜单"
+    ],
+    "price_per_person": 43,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，前10页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2021-12-28"
   }
 ]
