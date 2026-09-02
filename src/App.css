@@ -54,3 +54,12 @@
   flex: 1;
   min-height: 0;
 }
+
+.app-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: #999;
+  font-size: 13px;
+}

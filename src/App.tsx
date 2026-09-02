@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import MapView from './components/MapView';
 import RestaurantCard from './components/RestaurantCard';
 import FilterBar from './components/FilterBar';
@@ -6,7 +6,6 @@ import CityListView from './components/CityListView';
 import SearchBar from './components/SearchBar';
 import FavoritesView from './components/FavoritesView';
 import ItineraryOverlay from './components/ItineraryOverlay';
-import restaurantsData from './data/restaurants.json';
 import type { Restaurant } from './types/restaurant';
 import type { Filters } from './types/filters';
 import { DEFAULT_FILTERS, priceInRange } from './types/filters';
@@ -14,11 +13,11 @@ import type { FavoriteStatus, FavoritesMap } from './lib/favorites';
 import { getFavorites, persistFavorites } from './lib/favorites';
 import './App.css';
 
-const restaurants = restaurantsData as Restaurant[];
-
 type ViewMode = 'map' | 'cities' | 'favorites';
 
 function App() {
+  const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
+  const [loading, setLoading] = useState(true);
   const [selected, setSelected] = useState<Restaurant | null>(null);
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
   const [query, setQuery] = useState('');
@@ -27,6 +26,13 @@ function App() {
   const [itinerary, setItinerary] = useState<{ city: string; restaurants: Restaurant[] } | null>(
     null,
   );
+
+  useEffect(() => {
+    fetch(`${import.meta.env.BASE_URL}restaurants.json`)
+      .then((res) => res.json())
+      .then((data: Restaurant[]) => setRestaurants(data))
+      .finally(() => setLoading(false));
+  }, []);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -43,7 +49,7 @@ function App() {
       }
       return true;
     });
-  }, [filters, query]);
+  }, [restaurants, filters, query]);
 
   function handleSelectCity(city: string) {
     setFilters((f) => ({ ...f, city }));
@@ -92,7 +98,8 @@ function App() {
       )}
 
       <main className="app-map">
-        {view === 'map' && <MapView restaurants={filtered} onSelect={setSelected} />}
+        {loading && <div className="app-loading">加载数据中…</div>}
+        {!loading && view === 'map' && <MapView restaurants={filtered} onSelect={setSelected} />}
         {view === 'cities' && (
           <CityListView restaurants={filtered} onSelectCity={handleSelectCity} />
         )}
