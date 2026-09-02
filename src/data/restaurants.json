@@ -5169,5 +5169,110 @@
     "status": "存疑",
     "verified_at": "2026-09-02",
     "notes": "数据来源：B站搜索\"特别乌啦啦\"（按发布时间排序，第11-13页），标题/UP主直接引用，具体店名与地址未核实，视频发布于2020-12-03；标题称\"数一数二\""
+  },
+  {
+    "id": "liuyuxin-014",
+    "name": "南岸区弹子石鳝鱼馆（店名待核）",
+    "city": "重庆",
+    "district": "南岸区",
+    "address": "重庆市南岸区弹子石一处小区楼下（具体门牌待核）",
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "source": "liuyuxin",
+    "source_detail": "腾讯新闻《刘雨鑫探过的重庆小店》2026-04-10",
+    "cuisine": "川菜/河鲜",
+    "signature_dishes": [
+      "现杀鳝鱼",
+      "泡椒鳝鱼",
+      "肝腰合炒",
+      "干煸鳝鱼",
+      "红烧肥肠"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：腾讯新闻《刘雨鑫探过的重庆小店：街头巷尾的美食》2026-04-10，本地人宝藏小店，门脸不大只有七八张桌子，店名/精确地址未核实。"
+  },
+  {
+    "id": "liuyuxin-015",
+    "name": "渝中区深巷面馆（店名待核）",
+    "city": "重庆",
+    "district": "渝中区",
+    "address": "重庆市渝中区一条深巷里（具体门牌待核）",
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "source": "liuyuxin",
+    "source_detail": "腾讯新闻《刘雨鑫探过的重庆小店》2026-04-10",
+    "cuisine": "面食",
+    "signature_dishes": [
+      "鱼香肉丝面",
+      "豌杂面",
+      "抄手",
+      "肥肠面"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：腾讯新闻《刘雨鑫探过的重庆小店：街头巷尾的美食》2026-04-10，店名/精确地址未核实。"
+  },
+  {
+    "id": "liuyuxin-016",
+    "name": "重庆露天火锅（店名待核）",
+    "city": "重庆",
+    "district": "",
+    "address": "重庆（具体门牌待核）",
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "source": "liuyuxin",
+    "source_detail": "腾讯新闻《刘雨鑫探过的重庆小店》2026-04-10",
+    "cuisine": "火锅",
+    "signature_dishes": [],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：腾讯新闻《刘雨鑫探过的重庆小店：街头巷尾的美食》2026-04-10，开在小区附近，荤菜10元一盘、素菜10元一位，价格亲民，店名/精确地址未核实。"
+  },
+  {
+    "id": "liuyuxin-017",
+    "name": "德记农庄",
+    "city": "佛山",
+    "district": "顺德",
+    "address": "广东佛山顺德（具体门牌待核）",
+    "lat": 22.8206,
+    "lng": 113.2932,
+    "source": "liuyuxin",
+    "source_detail": "搜狐新闻《顺德德记农庄又被刘雨鑫带火》，2026-04-9探店视频发布",
+    "cuisine": "农家菜",
+    "signature_dishes": [
+      "烤猪"
+    ],
+    "price_per_person": null,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：搜狐新闻《顺德德记农庄又被刘雨鑫带火，以前一天就接十来桌，现在翻了好几倍》。莫氏鸡煲之后顺德第二家被带火的店，猪只有一只限量供应。地址未核实。"
+  },
+  {
+    "id": "liuyuxin-018",
+    "name": "顺德海鲜烧烤店（店名待核）",
+    "city": "佛山",
+    "district": "顺德",
+    "address": "广东佛山顺德（具体门牌待核）",
+    "lat": 22.8206,
+    "lng": 113.2932,
+    "source": "liuyuxin",
+    "source_detail": "新浪新闻《顺德烧烤店人均50元爆火》",
+    "cuisine": "海鲜烧烤",
+    "signature_dishes": [
+      "烤扇贝（35元/打）"
+    ],
+    "price_per_person": 50,
+    "sentiment": "推荐",
+    "status": "存疑",
+    "verified_at": "2026-09-02",
+    "notes": "数据来源：新浪新闻《顺德烧烤店人均50元爆火》，标签#刘雨鑫又带火佛山一烧烤店#，有深圳食客专程驱车前往。店名/精确地址未核实。"
   }
 ]
